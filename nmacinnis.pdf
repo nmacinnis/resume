@@ -5,8 +5,8 @@
 % The standard fonts dictionary
 << /F1 2 0 R
  /F2 3 0 R
- /F3 7 0 R
- /F4 8 0 R >>
+ /F3 8 0 R
+ /F4 9 0 R >>
 endobj
 % 'F1': class PDFType1Font 
 2 0 obj
@@ -60,19 +60,34 @@ endobj
 6 0 obj
 << /A << /S /URI
  /Type /Action
+ /URI (http://itsablogimeanbasicallywhocares.blogspot.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 86.58291
+ 668.5936
+ 105.4829
+ 680.5936 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+7 0 obj
+<< /A << /S /URI
+ /Type /Action
  /URI (http://www.bigmachines.com/) >>
  /Border [ 0
  0
  0 ]
  /Rect [ 62.69291
- 625.3786
+ 607.3786
  189.3979
- 643.3786 ]
+ 625.3786 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'F3': class PDFType1Font 
-7 0 obj
+8 0 obj
 % Font Helvetica-Oblique
 << /BaseFont /Helvetica-Oblique
  /Encoding /WinAnsiEncoding
@@ -81,7 +96,7 @@ endobj
  /Type /Font >>
 endobj
 % 'F4': class PDFType1Font 
-8 0 obj
+9 0 obj
 % Font Times-Roman
 << /BaseFont /Times-Roman
  /Encoding /WinAnsiEncoding
@@ -89,8 +104,8 @@ endobj
  /Subtype /Type1
  /Type /Font >>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
-9 0 obj
+% 'Annot.NUMBER5': class PDFDictionary 
+10 0 obj
 << /A << /S /URI
  /Type /Action
  /URI (http://www.porticosys.com/) >>
@@ -98,25 +113,26 @@ endobj
  0
  0 ]
  /Rect [ 62.69291
- 391.3786
+ 373.3786
  180.2329
- 409.3786 ]
+ 391.3786 ]
  /Subtype /Link
  /Type /Annot >>
 endobj
 % 'Page1': class PDFPage 
-10 0 obj
+11 0 obj
 % Page dictionary
 << /Annots [ 4 0 R
  5 0 R
  6 0 R
- 9 0 R ]
- /Contents 22 0 R
+ 7 0 R
+ 10 0 R ]
+ /Contents 23 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 21 0 R
+ /Parent 22 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -128,14 +144,14 @@ endobj
  /Type /Page >>
 endobj
 % 'Page2': class PDFPage 
-11 0 obj
+12 0 obj
 % Page dictionary
-<< /Contents 23 0 R
+<< /Contents 24 0 R
  /MediaBox [ 0
  0
  595.2756
  841.8898 ]
- /Parent 21 0 R
+ /Parent 22 0 R
  /Resources << /Font 1 0 R
  /ProcSet [ /PDF
  /Text
@@ -146,114 +162,114 @@ endobj
  /Trans <<  >>
  /Type /Page >>
 endobj
-% 'R12': class PDFCatalog 
-12 0 obj
+% 'R13': class PDFCatalog 
+13 0 obj
 % Document Root
-<< /Outlines 14 0 R
- /PageLabels 24 0 R
+<< /Outlines 15 0 R
+ /PageLabels 25 0 R
  /PageMode /UseNone
- /Pages 21 0 R
+ /Pages 22 0 R
  /Type /Catalog >>
 endobj
-% 'R13': class PDFInfo 
-13 0 obj
+% 'R14': class PDFInfo 
+14 0 obj
 << /Author ()
- /CreationDate (D:20120905222525+06'00')
+ /CreationDate (D:20120905225914+06'00')
  /Keywords ()
  /Producer (ReportLab http://www.reportlab.com)
  /Subject (\(unspecified\))
  /Title (Nicholas MacInnis) >>
 endobj
-% 'R14': class PDFOutlines 
-14 0 obj
+% 'R15': class PDFOutlines 
+15 0 obj
 << /Count 7
- /First 15 0 R
- /Last 20 0 R
+ /First 16 0 R
+ /Last 21 0 R
  /Type /Outlines >>
 endobj
 % 'Outline.0': class OutlineEntryObject 
-15 0 obj
+16 0 obj
 << /Count 2
- /Dest [ 10 0 R
+ /Dest [ 11 0 R
  /XYZ
  62.69291
- 671.0236
+ 653.0236
  0 ]
- /First 16 0 R
- /Last 17 0 R
- /Next 18 0 R
- /Parent 14 0 R
+ /First 17 0 R
+ /Last 18 0 R
+ /Next 19 0 R
+ /Parent 15 0 R
  /Title (Professional Experience) >>
 endobj
 % 'Outline.7.0': class OutlineEntryObject 
-16 0 obj
-<< /Dest [ 10 0 R
+17 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 638.0236
+ 620.0236
  0 ]
- /Next 17 0 R
- /Parent 15 0 R
+ /Next 18 0 R
+ /Parent 16 0 R
  /Title (BigMachines, Inc.) >>
 endobj
 % 'Outline.7.1': class OutlineEntryObject 
-17 0 obj
-<< /Dest [ 10 0 R
+18 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 404.0236
+ 386.0236
  0 ]
- /Parent 15 0 R
- /Prev 16 0 R
+ /Parent 16 0 R
+ /Prev 17 0 R
  /Title (Portico Systems) >>
 endobj
 % 'Outline.1': class OutlineEntryObject 
-18 0 obj
-<< /Dest [ 10 0 R
+19 0 obj
+<< /Dest [ 11 0 R
  /XYZ
  62.69291
- 260.0236
+ 242.0236
  0 ]
- /Next 19 0 R
- /Parent 14 0 R
- /Prev 15 0 R
+ /Next 20 0 R
+ /Parent 15 0 R
+ /Prev 16 0 R
  /Title (Technical Skills) >>
 endobj
 % 'Outline.2': class OutlineEntryObject 
-19 0 obj
-<< /Dest [ 10 0 R
- /XYZ
- 62.69291
- 143.0236
- 0 ]
- /Next 20 0 R
- /Parent 14 0 R
- /Prev 18 0 R
- /Title (Education) >>
-endobj
-% 'Outline.3': class OutlineEntryObject 
 20 0 obj
 << /Dest [ 11 0 R
  /XYZ
  62.69291
+ 125.0236
+ 0 ]
+ /Next 21 0 R
+ /Parent 15 0 R
+ /Prev 19 0 R
+ /Title (Education) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 62.69291
  765.0236
  0 ]
- /Parent 14 0 R
- /Prev 19 0 R
+ /Parent 15 0 R
+ /Prev 20 0 R
  /Title (Undergraduate Experience) >>
 endobj
-% 'R21': class PDFPages 
-21 0 obj
+% 'R22': class PDFPages 
+22 0 obj
 % page tree
 << /Count 2
- /Kids [ 10 0 R
- 11 0 R ]
+ /Kids [ 11 0 R
+ 12 0 R ]
  /Type /Pages >>
 endobj
-% 'R22': class PDFStream 
-22 0 obj
+% 'R23': class PDFStream 
+23 0 obj
 % page stream
-<< /Length 8797 >>
+<< /Length 8945 >>
 stream
 1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
 q
@@ -281,31 +297,37 @@ BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (github) Tj /F1 10 Tf ( ) Tj 0 0 .
 Q
 Q
 q
-1 0 0 1 62.69291 650.0236 cm
+1 0 0 1 62.69291 665.0236 cm
+q
+BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (blog) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (blog) Tj  T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 632.0236 cm
 q
 BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional Experience) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 620.0236 cm
+1 0 0 1 62.69291 602.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (BigMachines, Inc.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 602.0236 cm
+1 0 0 1 62.69291 584.0236 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Technical Lead Software Engineer) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2012 - Present) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 596.0236 cm
-Q
-q
-1 0 0 1 62.69291 596.0236 cm
+1 0 0 1 62.69291 578.0236 cm
 Q
 q
 1 0 0 1 62.69291 578.0236 cm
+Q
+q
+1 0 0 1 62.69291 560.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -326,13 +348,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 578.0236 cm
-Q
-q
-1 0 0 1 62.69291 578.0236 cm
+1 0 0 1 62.69291 560.0236 cm
 Q
 q
 1 0 0 1 62.69291 560.0236 cm
+Q
+q
+1 0 0 1 62.69291 542.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -353,13 +375,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 560.0236 cm
+1 0 0 1 62.69291 542.0236 cm
 Q
 q
-1 0 0 1 62.69291 560.0236 cm
+1 0 0 1 62.69291 542.0236 cm
 Q
 q
-1 0 0 1 62.69291 530.0236 cm
+1 0 0 1 62.69291 512.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -380,13 +402,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 530.0236 cm
+1 0 0 1 62.69291 512.0236 cm
 Q
 q
-1 0 0 1 62.69291 530.0236 cm
+1 0 0 1 62.69291 512.0236 cm
 Q
 q
-1 0 0 1 62.69291 500.0236 cm
+1 0 0 1 62.69291 482.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -407,25 +429,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 500.0236 cm
-Q
-q
-1 0 0 1 62.69291 500.0236 cm
+1 0 0 1 62.69291 482.0236 cm
 Q
 q
 1 0 0 1 62.69291 482.0236 cm
+Q
+q
+1 0 0 1 62.69291 464.0236 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Software Engineer Level 2) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2011 - Dec 2011) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 476.0236 cm
+1 0 0 1 62.69291 458.0236 cm
 Q
 q
-1 0 0 1 62.69291 476.0236 cm
+1 0 0 1 62.69291 458.0236 cm
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -446,13 +468,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 Q
 q
-1 0 0 1 62.69291 446.0236 cm
+1 0 0 1 62.69291 428.0236 cm
 Q
 q
-1 0 0 1 62.69291 416.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -473,31 +495,31 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 416.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 Q
 q
-1 0 0 1 62.69291 416.0236 cm
+1 0 0 1 62.69291 398.0236 cm
 Q
 q
-1 0 0 1 62.69291 386.0236 cm
+1 0 0 1 62.69291 368.0236 cm
 q
 BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Portico Systems) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 368.0236 cm
+1 0 0 1 62.69291 350.0236 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Customer Support Software Engineer) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2009 - Dec 2010) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 362.0236 cm
-Q
-q
-1 0 0 1 62.69291 362.0236 cm
+1 0 0 1 62.69291 344.0236 cm
 Q
 q
 1 0 0 1 62.69291 344.0236 cm
+Q
+q
+1 0 0 1 62.69291 326.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -518,13 +540,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 344.0236 cm
-Q
-q
-1 0 0 1 62.69291 344.0236 cm
+1 0 0 1 62.69291 326.0236 cm
 Q
 q
 1 0 0 1 62.69291 326.0236 cm
+Q
+q
+1 0 0 1 62.69291 308.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -545,13 +567,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 326.0236 cm
-Q
-q
-1 0 0 1 62.69291 326.0236 cm
+1 0 0 1 62.69291 308.0236 cm
 Q
 q
 1 0 0 1 62.69291 308.0236 cm
+Q
+q
+1 0 0 1 62.69291 290.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -572,13 +594,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 308.0236 cm
-Q
-q
-1 0 0 1 62.69291 308.0236 cm
+1 0 0 1 62.69291 290.0236 cm
 Q
 q
 1 0 0 1 62.69291 290.0236 cm
+Q
+q
+1 0 0 1 62.69291 272.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -599,13 +621,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 290.0236 cm
-Q
-q
-1 0 0 1 62.69291 290.0236 cm
+1 0 0 1 62.69291 272.0236 cm
 Q
 q
 1 0 0 1 62.69291 272.0236 cm
+Q
+q
+1 0 0 1 62.69291 254.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -626,25 +648,25 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 254.0236 cm
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 254.0236 cm
 Q
 q
-1 0 0 1 62.69291 239.0236 cm
+1 0 0 1 62.69291 221.0236 cm
 q
 BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical Skills) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 227.0236 cm
-Q
-q
-1 0 0 1 62.69291 227.0236 cm
+1 0 0 1 62.69291 209.0236 cm
 Q
 q
 1 0 0 1 62.69291 209.0236 cm
+Q
+q
+1 0 0 1 62.69291 191.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -664,13 +686,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 209.0236 cm
-Q
-q
-1 0 0 1 62.69291 209.0236 cm
+1 0 0 1 62.69291 191.0236 cm
 Q
 q
 1 0 0 1 62.69291 191.0236 cm
+Q
+q
+1 0 0 1 62.69291 173.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -690,13 +712,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 191.0236 cm
-Q
-q
-1 0 0 1 62.69291 191.0236 cm
+1 0 0 1 62.69291 173.0236 cm
 Q
 q
 1 0 0 1 62.69291 173.0236 cm
+Q
+q
+1 0 0 1 62.69291 155.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -716,13 +738,13 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 173.0236 cm
-Q
-q
-1 0 0 1 62.69291 173.0236 cm
+1 0 0 1 62.69291 155.0236 cm
 Q
 q
 1 0 0 1 62.69291 155.0236 cm
+Q
+q
+1 0 0 1 62.69291 137.0236 cm
 0 0 0 rg
 BT /F4 10 Tf 12 TL ET
 q
@@ -742,19 +764,19 @@ q
 Q
 Q
 q
-1 0 0 1 62.69291 155.0236 cm
+1 0 0 1 62.69291 137.0236 cm
 Q
 q
-1 0 0 1 62.69291 155.0236 cm
+1 0 0 1 62.69291 137.0236 cm
 Q
 q
-1 0 0 1 62.69291 122.0236 cm
+1 0 0 1 62.69291 104.0236 cm
 q
 BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 104.0236 cm
+1 0 0 1 62.69291 86.02362 cm
 q
 BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Bachelor of Science in Software Engineering, Drexel University, ) Tj /F3 10 Tf (Dec 2008) Tj T* ET
 Q
@@ -763,8 +785,8 @@ Q
 endstream
 
 endobj
-% 'R23': class PDFStream 
-23 0 obj
+% 'R24': class PDFStream 
+24 0 obj
 % page stream
 << /Length 1005 >>
 stream
@@ -810,28 +832,28 @@ Q
 endstream
 
 endobj
-% 'R24': class PDFPageLabels 
-24 0 obj
+% 'R25': class PDFPageLabels 
+25 0 obj
 % Document Root
 << /Nums [ 0
- 25 0 R
+ 26 0 R
  1
- 26 0 R ] >>
-endobj
-% 'R25': class PDFPageLabel 
-25 0 obj
-% None
-<< /S /D
- /St 1 >>
+ 27 0 R ] >>
 endobj
 % 'R26': class PDFPageLabel 
 26 0 obj
 % None
 << /S /D
+ /St 1 >>
+endobj
+% 'R27': class PDFPageLabel 
+27 0 obj
+% None
+<< /S /D
  /St 2 >>
 endobj
 xref
-0 27
+0 28
 0000000000 65535 f
 0000000113 00000 n
 0000000245 00000 n
@@ -839,34 +861,35 @@ xref
 0000000597 00000 n
 0000000845 00000 n
 0000001092 00000 n
-0000001325 00000 n
-0000001506 00000 n
-0000001687 00000 n
-0000001917 00000 n
-0000002241 00000 n
-0000002522 00000 n
-0000002681 00000 n
-0000002910 00000 n
-0000003035 00000 n
-0000003263 00000 n
-0000003443 00000 n
-0000003619 00000 n
-0000003811 00000 n
-0000003996 00000 n
-0000004165 00000 n
-0000004282 00000 n
-0000013180 00000 n
-0000014290 00000 n
-0000014396 00000 n
-0000014473 00000 n
+0000001361 00000 n
+0000001594 00000 n
+0000001775 00000 n
+0000001956 00000 n
+0000002187 00000 n
+0000002520 00000 n
+0000002801 00000 n
+0000002960 00000 n
+0000003189 00000 n
+0000003314 00000 n
+0000003542 00000 n
+0000003722 00000 n
+0000003898 00000 n
+0000004090 00000 n
+0000004275 00000 n
+0000004444 00000 n
+0000004561 00000 n
+0000013607 00000 n
+0000014717 00000 n
+0000014823 00000 n
+0000014900 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\273I\310'\2150\240\006\324#\354\347'v\221\027) (\273I\310'\2150\240\006\324#\354\347'v\221\027)] 
+ [(\253\222\302o%\214%\001\311\236\362o%\240<\261) (\253\222\302o%\214%\001\311\236\362o%\240<\261)] 
 
- /Info 13 0 R
- /Root 12 0 R
- /Size 27 >>
+ /Info 14 0 R
+ /Root 13 0 R
+ /Size 28 >>
 startxref
-14520
+14947
 %%EOF

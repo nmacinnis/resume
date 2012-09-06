@@ -9,6 +9,8 @@ Nicholas MacInnis
     **mobile** (312) 914-4750
 
     **github** `nmacinnis <https://github.com/nmacinnis/>`_
+    
+    **blog** `blog <http://itsablogimeanbasicallywhocares.blogspot.com/>`_
 
 Professional Experience
 =======================
