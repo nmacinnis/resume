@@ -24,7 +24,7 @@ Professional Experience
 **Technical Lead Software Engineer**
 *Jan 2012 - Present*
 
-- Technical lead of Server Side Development team
+- Technical lead of Server Side Development team.
 - Performed code reviews and trained other developers.
 - Introduced code quality standards based on code reviews (mandated) and testability (measured by coverage) to promote long term maintainability of the software.
 - Wrote a library for working with Directed Acyclic Graphs and implemented a workflow/approvals system using it. 
@@ -68,16 +68,16 @@ Bachelor of Science in Software Engineering,  Drexel University, *Dec 2008*
 Undergraduate Experience
 ========================
 
-**Assistant System Administrator**
+**Assistant System Administrator**, Drexel University Dept. of Computer Science
 *Jul 2007 - Nov 2008*
 
-**Testing Automation Coop**
+**Testing Automation Coop**, Siemens Medical Systems
 *Apr 2006 - Sep 2006*
 
-**Software Engineering Coop**
+**Software Engineering Coop**, Unisys
 *Apr 2005 - Sep 2005*
 
-**IT Intern**
+**IT Intern**, American Reinsurance
 *Jun 2004 - Sep 2004*
 
 *References provided upon request.*
