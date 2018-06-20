@@ -24,8 +24,8 @@ Professional Experience
 - Buzzwords: Python, ElasticSearch, S3, redis, mysql, RabbitMQ, Docker, Kubernetes
 
 
-NNRPC
-^^^^^
+*NNRPC*
+^^^^^^^
 
 A highly scalable webserver cluster handling 17,000 req/s across 90 machines,
 with presence tracking of over one million concurrent web users.
@@ -35,8 +35,8 @@ with presence tracking of over one million concurrent web users.
 - Implemented redis-based session store and subscription-based message delivery
 - Implemented stateless webservers and controllers for ease of cluster management
 
-Transcript Datastore
-^^^^^^^^^^^^^^^^^^^^
+*Transcript Datastore*
+^^^^^^^^^^^^^^^^^^^^^^
 
 Permanent storage and reporting microservice for all Olark customer data.
 
@@ -47,8 +47,8 @@ Permanent storage and reporting microservice for all Olark customer data.
 - Implemented automatic redaction of personally-identifiable information for compliance with GDPR.
 
 
-Email Report Service
-^^^^^^^^^^^^^^^^^^^^
+*Email Report Service*
+^^^^^^^^^^^^^^^^^^^^^^
 
 Microservice providing batch execution for emailed reports.
 
