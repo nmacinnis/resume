@@ -1,0 +1,32 @@
+styles:
+  bodytext:
+    kerning: true
+    alignment: TA_LEFT
+  heading3:
+    fontName: stdBold
+  noborder:
+    parent: table
+    commands: []
+      [LEFTPADDING, [ 0, 0 ], [ -1, -1 ], 0.5]
+      [RIGHTPADDING, [ 0, 0 ], [ -1, -1 ], 1]
+      [BOX, [ 0, 0 ], [ -1, -1 ], 0, white ]
+      [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0, white ]
+      [ALIGNMENT, [ -1, 0], [-1, -1], RIGHT]
+  contactinfo:
+    colWidths: [41%, 18%, 41%]
+    borderPadding: 0
+    commands: []
+      [BOX, [ 0, 0 ], [ -1, -1 ], 0.25, white ]
+      [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.25, white ]
+  hrtable:
+    textColor: white
+    colWidths: [100%]
+    borderPadding: 0
+    spaceBefore: 0
+    spaceAfter: 0
+    commands: []
+      [LINEBELOW, [0, 0], [-1, 0], 0.1, grey]
+      [BOX, [ 0, 0 ], [ -1, -1 ], 0.25, white ]
+      [INNERGRID, [ 0, 0 ], [ -1, -1 ], 0.25, white ]
+      [ROWBACKGROUNDS, [0, 0], [-1, -1], [white]]
+      [TEXTCOLOR, [0, 0], [-1, -1], white]

@@ -1,711 +1,633 @@
-%PDF-1.3
+%PDF-1.4
 %“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
-% 'BasicFonts': class PDFDictionary 
 1 0 obj
-% The standard fonts dictionary
-<< /F1 2 0 R
- /F2 3 0 R
- /F3 8 0 R
- /F4 9 0 R >>
+<<
+/F1 2 0 R /F2 3 0 R /F3 7 0 R
+>>
 endobj
-% 'F1': class PDFType1Font 
 2 0 obj
-% Font Helvetica
-<< /BaseFont /Helvetica
- /Encoding /WinAnsiEncoding
- /Name /F1
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'F2': class PDFType1Font 
 3 0 obj
-% Font Helvetica-Bold
-<< /BaseFont /Helvetica-Bold
- /Encoding /WinAnsiEncoding
- /Name /F2
- /Subtype /Type1
- /Type /Font >>
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'Annot.NUMBER1': class PDFDictionary 
 4 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (mailto:macinnis.nick@gmail.com) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 91.04291
- 722.5936
- 206.7629
- 734.5936 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (mailto:macinnis.nick@gmail.com)
+>> /Border [ 0 0 0 ] /Rect [ 133.6277 710.0236 249.3477 722.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER2': class PDFDictionary 
 5 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (https://github.com/nmacinnis/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 96.02291
- 686.5936
- 141.0329
- 698.5936 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (tel:+3129144750)
+>> /Border [ 0 0 0 ] /Rect [ 263.4528 710.7736 331.8228 722.7736 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER3': class PDFDictionary 
 6 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://itsablogimeanbasicallywhocares.blogspot.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 86.58291
- 668.5936
- 105.4829
- 680.5936 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.github.com/nmacinnis)
+>> /Border [ 0 0 0 ] /Rect [ 345.9279 710.7736 442.6279 722.7736 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Annot.NUMBER4': class PDFDictionary 
 7 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.bigmachines.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 62.69291
- 607.3786
- 189.3979
- 625.3786 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
 endobj
-% 'F3': class PDFType1Font 
 8 0 obj
-% Font Helvetica-Oblique
-<< /BaseFont /Helvetica-Oblique
- /Encoding /WinAnsiEncoding
- /Name /F3
- /Subtype /Type1
- /Type /Font >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.olark.com/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 557.0236 101.0479 575.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'F4': class PDFType1Font 
 9 0 obj
-% Font Times-Roman
-<< /BaseFont /Times-Roman
- /Encoding /WinAnsiEncoding
- /Name /F4
- /Subtype /Type1
- /Type /Font >>
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 8 0 R ] /Contents 26 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
-% 'Annot.NUMBER5': class PDFDictionary 
 10 0 obj
-<< /A << /S /URI
- /Type /Action
- /URI (http://www.porticosys.com/) >>
- /Border [ 0
- 0
- 0 ]
- /Rect [ 62.69291
- 373.3786
- 180.2329
- 391.3786 ]
- /Subtype /Link
- /Type /Annot >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.bigmachines.com/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 747.0236 189.3979 765.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Page1': class PDFPage 
 11 0 obj
-% Page dictionary
-<< /Annots [ 4 0 R
- 5 0 R
- 6 0 R
- 7 0 R
- 10 0 R ]
- /Contents 23 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 22 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<<
+/A <<
+/S /URI /Type /Action /URI (http://www.porticosys.com/)
+>> /Border [ 0 0 0 ] /Rect [ 62.69291 483.0236 180.2329 501.0236 ] /Subtype /Link /Type /Annot
+>>
 endobj
-% 'Page2': class PDFPage 
 12 0 obj
-% Page dictionary
-<< /Contents 24 0 R
- /MediaBox [ 0
- 0
- 595.2756
- 841.8898 ]
- /Parent 22 0 R
- /Resources << /Font 1 0 R
- /ProcSet [ /PDF
- /Text
- /ImageB
- /ImageC
- /ImageI ] >>
- /Rotate 0
- /Trans <<  >>
- /Type /Page >>
+<<
+/Annots [ 10 0 R 11 0 R ] /Contents 27 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 25 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
 endobj
-% 'R13': class PDFCatalog 
 13 0 obj
-% Document Root
-<< /Outlines 15 0 R
- /PageLabels 25 0 R
- /PageMode /UseNone
- /Pages 22 0 R
- /Type /Catalog >>
+<<
+/Outlines 15 0 R /PageLabels 28 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog
+>>
 endobj
-% 'R14': class PDFInfo 
 14 0 obj
-<< /Author ()
- /CreationDate (D:20120907225109+06'00')
- /Keywords ()
- /Producer (ReportLab http://www.reportlab.com)
- /Subject (\(unspecified\))
- /Title (Nicholas MacInnis) >>
+<<
+/Author () /CreationDate (D:20180620135943+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180620135943+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Nicholas MacInnis) /Trapped /False
+>>
 endobj
-% 'R15': class PDFOutlines 
 15 0 obj
-<< /Count 7
- /First 16 0 R
- /Last 21 0 R
- /Type /Outlines >>
+<<
+/Count 11 /First 16 0 R /Last 24 0 R /Type /Outlines
+>>
 endobj
-% 'Outline.0': class OutlineEntryObject 
 16 0 obj
-<< /Count 2
- /Dest [ 11 0 R
- /XYZ
- 62.69291
- 653.0236
- 0 ]
- /First 17 0 R
- /Last 18 0 R
- /Next 19 0 R
- /Parent 15 0 R
- /Title (Professional Experience) >>
+<<
+/Dest [ 9 0 R /XYZ 62.69291 695.0236 0 ] /Next 17 0 R /Parent 15 0 R /Title (Education)
+>>
 endobj
-% 'Outline.7.0': class OutlineEntryObject 
 17 0 obj
-<< /Dest [ 11 0 R
- /XYZ
- 62.69291
- 620.0236
- 0 ]
- /Next 18 0 R
- /Parent 16 0 R
- /Title (BigMachines, Inc.) >>
+<<
+/Count 6 /Dest [ 9 0 R /XYZ 62.69291 608.0236 0 ] /First 18 0 R /Last 23 0 R /Next 24 0 R /Parent 15 0 R 
+  /Prev 16 0 R /Title (Professional Experience)
+>>
 endobj
-% 'Outline.7.1': class OutlineEntryObject 
 18 0 obj
-<< /Dest [ 11 0 R
- /XYZ
- 62.69291
- 386.0236
- 0 ]
- /Parent 16 0 R
- /Prev 17 0 R
- /Title (Portico Systems) >>
+<<
+/Count 3 /Dest [ 9 0 R /XYZ 62.69291 575.0236 0 ] /First 19 0 R /Last 21 0 R /Next 22 0 R /Parent 17 0 R 
+  /Title (Olark)
+>>
 endobj
-% 'Outline.1': class OutlineEntryObject 
 19 0 obj
-<< /Dest [ 11 0 R
- /XYZ
- 62.69291
- 242.0236
- 0 ]
- /Next 20 0 R
- /Parent 15 0 R
- /Prev 16 0 R
- /Title (Technical Skills) >>
+<<
+/Dest [ 9 0 R /XYZ 62.69291 431.0236 0 ] /Next 20 0 R /Parent 18 0 R /Title (NNRPC)
+>>
 endobj
-% 'Outline.2': class OutlineEntryObject 
 20 0 obj
-<< /Dest [ 11 0 R
- /XYZ
- 62.69291
- 125.0236
- 0 ]
- /Next 21 0 R
- /Parent 15 0 R
- /Prev 19 0 R
- /Title (Education) >>
+<<
+/Dest [ 9 0 R /XYZ 62.69291 290.0236 0 ] /Next 21 0 R /Parent 18 0 R /Prev 19 0 R /Title (Transcript Datastore)
+>>
 endobj
-% 'Outline.3': class OutlineEntryObject 
 21 0 obj
-<< /Dest [ 12 0 R
- /XYZ
- 62.69291
- 765.0236
- 0 ]
- /Parent 15 0 R
- /Prev 20 0 R
- /Title (Undergraduate Experience) >>
+<<
+/Dest [ 9 0 R /XYZ 62.69291 149.0236 0 ] /Parent 18 0 R /Prev 20 0 R /Title (Email Report Service)
+>>
 endobj
-% 'R22': class PDFPages 
 22 0 obj
-% page tree
-<< /Count 2
- /Kids [ 11 0 R
- 12 0 R ]
- /Type /Pages >>
+<<
+/Dest [ 12 0 R /XYZ 62.69291 765.0236 0 ] /Next 23 0 R /Parent 17 0 R /Prev 18 0 R /Title (BigMachines, Inc.)
+>>
 endobj
-% 'R23': class PDFStream 
 23 0 obj
-% page stream
-<< /Length 8946 >>
+<<
+/Dest [ 12 0 R /XYZ 62.69291 501.0236 0 ] /Parent 17 0 R /Prev 22 0 R /Title (Portico Systems)
+>>
+endobj
+24 0 obj
+<<
+/Dest [ 12 0 R /XYZ 62.69291 327.0236 0 ] /Parent 15 0 R /Prev 17 0 R /Title (Undergraduate Experience)
+>>
+endobj
+25 0 obj
+<<
+/Count 2 /Kids [ 9 0 R 12 0 R ] /Type /Pages
+>>
+endobj
+26 0 obj
+<<
+/Length 9184
+>>
 stream
-1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
 1 0 0 1 62.69291 741.0236 cm
 q
-BT 1 0 0 1 0 9.64 Tm 147.6949 0 Td 24 TL /F2 20 Tf 0 0 0 rg (Nicholas MacInnis) Tj T* -147.6949 0 Td ET
-Q
-Q
-q
-1 0 0 1 62.69291 719.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (email) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (macinnis.nick@gmail.com) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 701.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (mobile ) Tj /F1 10 Tf (\(312\) 914-4750) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 683.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (github) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (nmacinnis) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 665.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (blog) Tj /F1 10 Tf ( ) Tj 0 0 .501961 rg (blog) Tj  T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 632.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional Experience) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 602.0236 cm
-q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (BigMachines, Inc.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 584.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Technical Lead Software Engineer) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2012 - Present) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 578.0236 cm
-Q
-q
-1 0 0 1 62.69291 578.0236 cm
-Q
-q
-1 0 0 1 62.69291 560.0236 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 147.6949 0 Td (Nicholas MacInnis) Tj T* -147.6949 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 725.0236 cm
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
+BT 1 0 0 1 0 2 Tm 64.9348 0 Td 12 TL /F1 10 Tf 0 0 .501961 rg (macinnis.nick@gmail.com) Tj T* -64.9348 0 Td ET
+Q
+Q
+q
+1 0 0 1 198.6548 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 2.105079 0 Td (\(312\) 914-4750) Tj T* -2.105079 0 Td ET
+Q
+Q
+q
+1 0 0 1 283.235 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (github.com/nmacinnis) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 192.6548 0 m 192.6548 18 l S
+n 277.235 0 m 277.235 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 707.0236 cm
+Q
+q
+1 0 0 1 62.69291 674.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 662.0236 cm
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 23 3 cm
+1 0 0 1 .5 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Technical lead of Server Side Development team.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Bachelor of Science in Software Engineering, Drexel University) Tj T* ET
 Q
 Q
 q
-Q
-Q
+1 0 0 1 368.486 3 cm
 q
-1 0 0 1 62.69291 560.0236 cm
-Q
-q
-1 0 0 1 62.69291 560.0236 cm
-Q
-q
-1 0 0 1 62.69291 542.0236 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 57.6038 0 Td (Dec 2008) Tj T* -57.6038 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 367.986 0 m 367.986 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 644.0236 cm
+Q
+q
+1 0 0 1 62.69291 638.0236 cm
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
 q
 1 0 0 1 6 3 cm
 q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (_) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.1 w
+n 0 0 m 469.8898 0 l S
+1 1 1 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 620.0236 cm
+Q
+q
+1 0 0 1 62.69291 587.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Professional Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 557.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Olark) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 545.0236 cm
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Senior Software Engineer) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Performed code reviews and trained other developers.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 542.0236 cm
-Q
-q
-1 0 0 1 62.69291 542.0236 cm
-Q
-q
-1 0 0 1 62.69291 512.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .83498 Tw (Introduced code quality standards based on code reviews \(mandated\) and testability \(measured by) Tj T* 0 Tw (coverage\) to promote long term maintainability of the software.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 512.0236 cm
-Q
-q
-1 0 0 1 62.69291 512.0236 cm
-Q
-q
-1 0 0 1 62.69291 482.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
+1 0 0 1 271.5902 3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 110.0395 0 Td (May 2013 - Present) Tj T* -110.0395 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 271.0902 0 m 271.0902 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 527.0236 cm
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 521.0236 cm
+Q
+q
+1 0 0 1 62.69291 509.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 2.045814 Tw (Wrote a library for working with Directed Acyclic Graphs and implemented a workflow/approvals) Tj T* 0 Tw (system using it.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 482.0236 cm
-Q
-q
-1 0 0 1 62.69291 482.0236 cm
-Q
-q
-1 0 0 1 62.69291 464.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Software Engineer Level 2) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2011 - Dec 2011) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 458.0236 cm
-Q
-q
-1 0 0 1 62.69291 458.0236 cm
-Q
-q
-1 0 0 1 62.69291 428.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary maintainer of chat product's backend communication infrastructure and data storage) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+Q
+Q
+q
+1 0 0 1 62.69291 503.0236 cm
+Q
+q
+1 0 0 1 62.69291 479.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL 5.809974 Tw (Lead developer on E-Commerce Business Rules Engine. Requirements analysis, design,) Tj T* 0 Tw (implementation, testing, and code review.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 428.0236 cm
-Q
-q
-1 0 0 1 62.69291 428.0236 cm
-Q
-q
-1 0 0 1 62.69291 398.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 15 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Responsible for overall system reliability and scalability, feature planning, design, and) Tj T* (implementation) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+Q
+Q
+q
+1 0 0 1 62.69291 473.0236 cm
+Q
+q
+1 0 0 1 62.69291 461.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 16.82 Tm /F1 10 Tf 12 TL .813615 Tw (Lead developer on E-Commerce Testability initiative. Refactored software module to allow isolation) Tj T* 0 Tw (of individual components for greater unit test coverage.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interviewing, training, and mentoring other backend engineers) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 398.0236 cm
+1 0 0 1 62.69291 455.0236 cm
 Q
 q
-1 0 0 1 62.69291 398.0236 cm
+1 0 0 1 62.69291 443.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
 Q
 q
-1 0 0 1 62.69291 368.0236 cm
+1 0 0 1 23 -3 cm
 q
-BT 1 0 0 1 0 7.23 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Portico Systems) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Buzzwords: Python, ElasticSearch, S3, redis, mysql, RabbitMQ, Docker, Kubernetes) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 443.0236 cm
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (NNRPC) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (A highly scalable webserver cluster handling 17,000 req/s across 90 machines, with presence tracking of) Tj T* (over one million concurrent web users.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+Q
+q
+1 0 0 1 62.69291 380.0236 cm
+Q
+q
+1 0 0 1 62.69291 356.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Total rebuild of a legacy system to solve issues of scaling limits, reliability, and inconsistent state) Tj T* (management.) Tj T* ET
+Q
+Q
+q
 Q
 Q
 q
 1 0 0 1 62.69291 350.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Customer Support Software Engineer) Tj /F1 10 Tf ( ) Tj /F3 10 Tf (Jan 2009 - Dec 2010) Tj T* ET
-Q
 Q
 q
-1 0 0 1 62.69291 344.0236 cm
-Q
-q
-1 0 0 1 62.69291 344.0236 cm
-Q
-q
-1 0 0 1 62.69291 326.0236 cm
+1 0 0 1 62.69291 338.0236 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (J2EE, Jython and Oracle support engineer.) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 326.0236 cm
-Q
-q
-1 0 0 1 62.69291 326.0236 cm
-Q
-q
-1 0 0 1 62.69291 308.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Effective use of automated testing and code review to ensure no loss of functionality) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+Q
+Q
+q
+1 0 0 1 62.69291 332.0236 cm
+Q
+q
+1 0 0 1 62.69291 320.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Triaged customer issues and enhancement requests and developed solutions.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 308.0236 cm
-Q
-q
-1 0 0 1 62.69291 308.0236 cm
-Q
-q
-1 0 0 1 62.69291 290.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented redis-based session store and subscription-based message delivery) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+Q
+Q
+q
+1 0 0 1 62.69291 314.0236 cm
+Q
+q
+1 0 0 1 62.69291 302.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Refactored Print Directory feed module for code quality and testability.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-Q
-Q
-q
-1 0 0 1 62.69291 290.0236 cm
-Q
-q
-1 0 0 1 62.69291 290.0236 cm
-Q
-q
-1 0 0 1 62.69291 272.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 3 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Primary support engineer for National Provider Database feed module.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented stateless webservers and controllers for ease of cluster management) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 302.0236 cm
 Q
 q
-1 0 0 1 62.69291 272.0236 cm
+1 0 0 1 62.69291 275.0236 cm
+q
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (Transcript Datastore) Tj T* ET
+Q
 Q
 q
-1 0 0 1 62.69291 254.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 62.69291 257.0236 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Permanent storage and reporting microservice for all Olark customer data.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+1 0 0 1 62.69291 251.0236 cm
+Q
+q
+1 0 0 1 62.69291 251.0236 cm
+Q
+q
+1 0 0 1 62.69291 227.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL (Implemented departmental code review process.) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implemented ElasticSearch indexing and S3 storage of over 165M transcripts of customer) Tj T* (conversations) Tj T* ET
 Q
 Q
 q
 Q
-Q
-q
-1 0 0 1 62.69291 254.0236 cm
-Q
-q
-1 0 0 1 62.69291 254.0236 cm
 Q
 q
 1 0 0 1 62.69291 221.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Technical Skills) Tj T* ET
-Q
 Q
 q
 1 0 0 1 62.69291 209.0236 cm
-Q
-q
-1 0 0 1 62.69291 209.0236 cm
-Q
-q
-1 0 0 1 62.69291 191.0236 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Languages ) Tj /F1 10 Tf (Java, Python, Erlang, PL/SQL, bash) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 191.0236 cm
-Q
-q
-1 0 0 1 62.69291 191.0236 cm
-Q
-q
-1 0 0 1 62.69291 173.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented chat agent presence history datastore tracking over 100M status events) Tj T* ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
+Q
+Q
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Technologies ) Tj /F1 10 Tf (Spring, Hibernate, Tomcat, Maven, Ant) Tj T* ET
+1 0 0 1 62.69291 203.0236 cm
+Q
+q
+1 0 0 1 62.69291 179.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Implemented Olark's best-in-class reporting functionality using the above, providing the data for) Tj T* (customer satisfaction tracking, traffic graphs, agent time-tracking charts, etc.) Tj T* ET
 Q
 Q
 q
@@ -715,181 +637,778 @@ q
 1 0 0 1 62.69291 173.0236 cm
 Q
 q
-1 0 0 1 62.69291 173.0236 cm
-Q
-q
-1 0 0 1 62.69291 155.0236 cm
+1 0 0 1 62.69291 161.0236 cm
 0 0 0 rg
-BT /F4 10 Tf 12 TL ET
+BT /F1 10 Tf 12 TL ET
 q
-1 0 0 1 6 3 cm
+1 0 0 1 6 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
 Q
 Q
 q
-1 0 0 1 23 3 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (RDBMS ) Tj /F1 10 Tf (Oracle, Postgres, Derby, MySQL) Tj T* ET
-Q
-Q
-q
-Q
-Q
-q
-1 0 0 1 62.69291 155.0236 cm
-Q
-q
-1 0 0 1 62.69291 155.0236 cm
-Q
-q
-1 0 0 1 62.69291 137.0236 cm
-0 0 0 rg
-BT /F4 10 Tf 12 TL ET
-q
-1 0 0 1 6 3 cm
+1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
-Q
-Q
-q
-1 0 0 1 23 3 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Tools ) Tj /F1 10 Tf (vim, Eclipse, Git, SVN, Jira) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented automatic redaction of personally-identifiable information for compliance with GDPR.) Tj T* ET
 Q
 Q
 q
 Q
 Q
 q
-1 0 0 1 62.69291 137.0236 cm
+1 0 0 1 62.69291 161.0236 cm
 Q
 q
-1 0 0 1 62.69291 137.0236 cm
-Q
+1 0 0 1 62.69291 134.0236 cm
 q
-1 0 0 1 62.69291 104.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Education) Tj T* ET
+BT 1 0 0 1 0 2.5 Tm 15 TL /F2 12.5 Tf 0 0 0 rg (Email Report Service) Tj T* ET
 Q
 Q
 q
-1 0 0 1 62.69291 86.02362 cm
+1 0 0 1 62.69291 116.0236 cm
 q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F1 10 Tf 0 0 0 rg (Bachelor of Science in Software Engineering, Drexel University, ) Tj /F3 10 Tf (Dec 2008) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Microservice providing batch execution for emailed reports.) Tj T* ET
 Q
+Q
+q
+1 0 0 1 62.69291 110.0236 cm
+Q
+q
+1 0 0 1 62.69291 110.0236 cm
+Q
+q
+1 0 0 1 62.69291 98.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented automatic scheduled email reports, sending ~25,000 reports per week) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 92.02362 cm
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented Olark's original CSV email report, used over 145,000 times to date.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 80.02362 cm
 Q
  
 endstream
-
 endobj
-% 'R24': class PDFStream 
-24 0 obj
-% page stream
-<< /Length 1105 >>
-stream
-1 0 0 1 0 0 cm BT /F1 12 Tf 14.4 TL ET
-q
-1 0 0 1 62.69291 744.0236 cm
-q
-BT 1 0 0 1 0 8.435 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Undergraduate Experience) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 726.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Assistant System Administrator) Tj /F1 10 Tf (, Drexel University Dept. of Computer Science ) Tj /F3 10 Tf (Jul 2007 - Nov 2008) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 708.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Testing Automation Coop) Tj /F1 10 Tf (, Siemens Medical Systems ) Tj /F3 10 Tf (Apr 2006 - Sep 2006) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 690.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (Software Engineering Coop) Tj /F1 10 Tf (, Unisys ) Tj /F3 10 Tf (Apr 2005 - Sep 2005) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 672.0236 cm
-q
-BT 1 0 0 1 0 4.82 Tm 12 TL /F2 10 Tf 0 0 0 rg (IT Intern) Tj /F1 10 Tf (, American Reinsurance ) Tj /F3 10 Tf (Jun 2004 - Sep 2004) Tj T* ET
-Q
-Q
-q
-1 0 0 1 62.69291 654.0236 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 4.82 Tm /F3 10 Tf 12 TL (References provided upon request.) Tj T* ET
-Q
-Q
- 
-endstream
-
-endobj
-% 'R25': class PDFPageLabels 
-25 0 obj
-% Document Root
-<< /Nums [ 0
- 26 0 R
- 1
- 27 0 R ] >>
-endobj
-% 'R26': class PDFPageLabel 
-26 0 obj
-% None
-<< /S /D
- /St 1 >>
-endobj
-% 'R27': class PDFPageLabel 
 27 0 obj
-% None
-<< /S /D
- /St 2 >>
+<<
+/Length 9446
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 747.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (BigMachines, Inc.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 735.0236 cm
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Technical Lead Software Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 8.477929 0 Td (Jan 2012 - May 2013) Tj T* -8.477929 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 717.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 711.0236 cm
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Technical lead of Server Side Development team.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 693.0236 cm
+Q
+q
+1 0 0 1 62.69291 681.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Performed code reviews and trained other developers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 675.0236 cm
+Q
+q
+1 0 0 1 62.69291 651.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Introduced code quality standards based on code reviews \(mandated\) and testability \(measured by) Tj T* (coverage\) to promote long term maintainability of the software.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Wrote a library for working with Directed Acyclic Graphs and implemented a workflow/approvals) Tj T* (system using it.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 621.0236 cm
+Q
+q
+1 0 0 1 62.69291 615.0236 cm
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Software Engineer Level 2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 9.587929 0 Td (Jan 2011 - Dec 2011) Tj T* -9.587929 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 597.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 591.0236 cm
+Q
+q
+1 0 0 1 62.69291 567.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lead developer on E-Commerce Business Rules Engine. Requirements analysis, design,) Tj T* (implementation, testing, and code review.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 561.0236 cm
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 9 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL (Lead developer on E-Commerce Testability initiative. Refactored software module to allow isolation) Tj T* (of individual components for greater unit test coverage.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 537.0236 cm
+Q
+q
+1 0 0 1 62.69291 531.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (_) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.1 w
+n 0 0 m 469.8898 0 l S
+1 1 1 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+Q
+q
+1 0 0 1 62.69291 483.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 .501961 rg (Portico Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 471.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Customer Support Software Engineer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 298.8427 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 77.21706 0 Td (Jan 2009 - Dec 2010) Tj T* -77.21706 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 298.3427 0 m 298.3427 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 435.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (J2EE, Jython and Oracle support engineer.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 429.0236 cm
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Triaged customer issues and enhancement requests and developed solutions.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 411.0236 cm
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Refactored Print Directory feed module for code quality and testability.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 393.0236 cm
+Q
+q
+1 0 0 1 62.69291 381.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary support engineer for National Provider Database feed module.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 375.0236 cm
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented departmental code review process.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 363.0236 cm
+Q
+q
+1 0 0 1 62.69291 357.0236 cm
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+1 1 1 rg
+n 0 18 469.8898 -18 re f*
+1 1 1 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+1 1 1 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (_) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.1 w
+n 0 0 m 469.8898 0 l S
+1 1 1 RG
+.25 w
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 339.0236 cm
+Q
+q
+1 0 0 1 62.69291 306.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Undergraduate Experience) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Assistant System Administrator) Tj /F1 10 Tf (, Drexel University Dept. of Computer Science) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 12.92793 0 Td (Jul 2007 - Nov 2008) Tj T* -12.92793 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 276.0236 cm
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Testing Automation Coop) Tj /F1 10 Tf (, Siemens Medical Systems) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 10.13793 0 Td (Apr 2006 - Sep 2006) Tj T* -10.13793 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 252.0236 cm
+Q
+q
+1 0 0 1 62.69291 246.0236 cm
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Software Engineering Coop) Tj /F1 10 Tf (, Unisys) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 10.13793 0 Td (Apr 2005 - Sep 2005) Tj T* -10.13793 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 228.0236 cm
+Q
+q
+1 0 0 1 62.69291 222.0236 cm
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 .5 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (IT Intern) Tj /F1 10 Tf (, American Reinsurance) Tj T* ET
+Q
+Q
+q
+1 0 0 1 366.4718 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL 9.577929 0 Td (Jun 2004 - Sep 2004) Tj T* -9.577929 0 Td ET
+Q
+Q
+q
+1 J
+1 j
+1 1 1 RG
+n 0 18 m 469.8898 18 l S
+n 0 0 m 469.8898 0 l S
+n 0 0 m 0 18 l S
+n 469.8898 0 m 469.8898 18 l S
+n 365.9718 0 m 365.9718 18 l S
+Q
+Q
+q
+1 0 0 1 62.69291 204.0236 cm
+Q
+q
+1 0 0 1 62.69291 186.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F3 10 Tf 12 TL (References provided upon request.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+28 0 obj
+<<
+/Nums [ 0 29 0 R 1 30 0 R ]
+>>
+endobj
+29 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+30 0 obj
+<<
+/S /D /St 2
+>>
 endobj
 xref
-0 28
-0000000000 65535 f
-0000000113 00000 n
-0000000245 00000 n
-0000000410 00000 n
-0000000597 00000 n
-0000000845 00000 n
-0000001092 00000 n
-0000001361 00000 n
-0000001594 00000 n
-0000001775 00000 n
-0000001956 00000 n
-0000002187 00000 n
-0000002520 00000 n
-0000002801 00000 n
-0000002960 00000 n
-0000003189 00000 n
-0000003314 00000 n
-0000003542 00000 n
-0000003722 00000 n
-0000003898 00000 n
-0000004090 00000 n
-0000004275 00000 n
-0000004444 00000 n
-0000004561 00000 n
-0000013608 00000 n
-0000014818 00000 n
-0000014924 00000 n
-0000015001 00000 n
+0 31
+0000000000 65535 f 
+0000000073 00000 n 
+0000000124 00000 n 
+0000000231 00000 n 
+0000000343 00000 n 
+0000000525 00000 n 
+0000000692 00000 n 
+0000000875 00000 n 
+0000000990 00000 n 
+0000001163 00000 n 
+0000001404 00000 n 
+0000001584 00000 n 
+0000001763 00000 n 
+0000001995 00000 n 
+0000002101 00000 n 
+0000002376 00000 n 
+0000002451 00000 n 
+0000002561 00000 n 
+0000002737 00000 n 
+0000002882 00000 n 
+0000002988 00000 n 
+0000003122 00000 n 
+0000003243 00000 n 
+0000003375 00000 n 
+0000003492 00000 n 
+0000003618 00000 n 
+0000003685 00000 n 
+0000012921 00000 n 
+0000022419 00000 n 
+0000022469 00000 n 
+0000022503 00000 n 
 trailer
-<< /ID 
- % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
- [(\330\2327\262O\243Q}4\270#~\223\001\330\016) (\330\2327\262O\243Q}4\270#~\223\001\330\016)] 
+<<
+/ID 
+[<f005ce5a87f10db2bfac3690150ea022><f005ce5a87f10db2bfac3690150ea022>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
- /Info 14 0 R
- /Root 13 0 R
- /Size 28 >>
+/Info 14 0 R
+/Root 13 0 R
+/Size 31
+>>
 startxref
-15048
+22537
 %%EOF
