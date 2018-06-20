@@ -18,9 +18,9 @@ Professional Experience
 **Senior Software Engineer**
 *May 2013 - Present*
 
-- Primary maintainer of chat product's backend communication infrastructure and data storage
-- Responsible for overall system reliability and scalability, feature planning, design, and implementation
-- Interviewing, training, and mentoring other backend engineers
+- Primary maintainer of chat product's backend communication infrastructure and data storage.
+- Responsible for overall system reliability and scalability, feature planning, design, and implementation.
+- Interviewing, training, and mentoring other backend engineers.
 - Buzzwords: Python, ElasticSearch, S3, redis, mysql, RabbitMQ, Docker, Kubernetes
 
 
@@ -31,17 +31,18 @@ A highly scalable webserver cluster handling 17,000 req/s across 90 machines,
 with presence tracking of over one million concurrent web users.
 
 - Total rebuild of a legacy system to solve issues of scaling limits, reliability, and inconsistent state management.
-- Effective use of automated testing and code review to ensure no loss of functionality
-- Implemented redis-based session store and subscription-based message delivery
-- Implemented stateless webservers and controllers for ease of cluster management
+- Effective use of automated testing and code review to ensure no loss of functionality.
+- Implemented redis-based session store and subscription-based message delivery.
+- Implemented stateless webservers and controllers for ease of cluster management.
+
 
 *Transcript Datastore*
 ^^^^^^^^^^^^^^^^^^^^^^
 
 Permanent storage and reporting microservice for all Olark customer data.
 
-- Implemented ElasticSearch indexing and S3 storage of over 165M transcripts of customer conversations
-- Implemented chat agent presence history datastore tracking over 100M status events
+- Implemented ElasticSearch indexing and S3 storage of over 165M transcripts of customer conversations.
+- Implemented chat agent presence history datastore tracking over 100M status events.
 - Implemented Olark's best-in-class reporting functionality using the above,
   providing the data for customer satisfaction tracking, traffic graphs, agent time-tracking charts, etc.
 - Implemented automatic redaction of personally-identifiable information for compliance with GDPR.
@@ -52,7 +53,7 @@ Permanent storage and reporting microservice for all Olark customer data.
 
 Microservice providing batch execution for emailed reports.
 
-- Implemented automatic scheduled email reports, sending ~25,000 reports per week
+- Implemented automatic scheduled email reports, sending ~25,000 reports per week.
 - Implemented Olark's original CSV email report, used over 145,000 times to date.
 
 \ 

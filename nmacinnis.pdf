@@ -87,7 +87,7 @@ endobj
 endobj
 14 0 obj
 <<
-/Author () /CreationDate (D:20180620161019+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180620161019+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+/Author () /CreationDate (D:20180620162100+08'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180620162100+08'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
   /Subject (\(unspecified\)) /Title (Nicholas MacInnis) /Trapped /False
 >>
 endobj
@@ -156,7 +156,7 @@ endobj
 endobj
 27 0 obj
 <<
-/Length 7811
+/Length 7820
 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
@@ -238,7 +238,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary maintainer of chat product's backend communication infrastructure and data storage) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Primary maintainer of chat product's backend communication infrastructure and data storage.) Tj T* ET
 Q
 Q
 q
@@ -262,7 +262,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.895976 Tw (Responsible for overall system reliability and scalability, feature planning, design, and) Tj T* 0 Tw (implementation) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 6.895976 Tw (Responsible for overall system reliability and scalability, feature planning, design, and) Tj T* 0 Tw (implementation.) Tj T* ET
 Q
 Q
 q
@@ -286,7 +286,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interviewing, training, and mentoring other backend engineers) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Interviewing, training, and mentoring other backend engineers.) Tj T* ET
 Q
 Q
 q
@@ -377,7 +377,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Effective use of automated testing and code review to ensure no loss of functionality) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Effective use of automated testing and code review to ensure no loss of functionality.) Tj T* ET
 Q
 Q
 q
@@ -401,7 +401,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented redis-based session store and subscription-based message delivery) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented redis-based session store and subscription-based message delivery.) Tj T* ET
 Q
 Q
 q
@@ -425,7 +425,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented stateless webservers and controllers for ease of cluster management) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented stateless webservers and controllers for ease of cluster management.) Tj T* ET
 Q
 Q
 q
@@ -468,7 +468,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.499979 Tw (Implemented ElasticSearch indexing and S3 storage of over 165M transcripts of customer) Tj T* 0 Tw (conversations) Tj T* ET
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 4.499979 Tw (Implemented ElasticSearch indexing and S3 storage of over 165M transcripts of customer) Tj T* 0 Tw (conversations.) Tj T* ET
 Q
 Q
 q
@@ -492,7 +492,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented chat agent presence history datastore tracking over 100M status events) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented chat agent presence history datastore tracking over 100M status events.) Tj T* ET
 Q
 Q
 q
@@ -583,7 +583,7 @@ q
 1 0 0 1 23 -3 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented automatic scheduled email reports, sending ~25,000 reports per week) Tj T* ET
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Implemented automatic scheduled email reports, sending ~25,000 reports per week.) Tj T* ET
 Q
 Q
 q
@@ -1052,14 +1052,14 @@ xref
 0000003574 00000 n 
 0000003700 00000 n 
 0000003767 00000 n 
-0000011630 00000 n 
-0000018264 00000 n 
-0000018314 00000 n 
-0000018348 00000 n 
+0000011639 00000 n 
+0000018273 00000 n 
+0000018323 00000 n 
+0000018357 00000 n 
 trailer
 <<
 /ID 
-[<71d0fdc07331ac56241aba3e6c4af0b0><71d0fdc07331ac56241aba3e6c4af0b0>]
+[<24160d0a80f54390628a6f9e19a7c354><24160d0a80f54390628a6f9e19a7c354>]
 % ReportLab generated PDF document -- digest (http://www.reportlab.com)
 
 /Info 14 0 R
@@ -1067,5 +1067,5 @@ trailer
 /Size 32
 >>
 startxref
-18382
+18391
 %%EOF
